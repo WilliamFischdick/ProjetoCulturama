@@ -2,7 +2,7 @@
 
 Um site responsivo com o uso do Grid e Flexbox.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/jwfbit   |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Culturama**
 | :label: Tecnologias | html, CSS 
